@@ -1,6 +1,6 @@
 ﻿# ReactJS - Setup Localhost with Webpack & Babel
 
-This guide will direct you in setting up a locally hosted ReactJS environment with Webpack with Babel for ES6 Javascript Transpiling.
+This guide will direct you in setting up a locally hosted ReactJS environment with Webpack and Babel for ES6 to ES2015 Javascript Transpiling.
 
 **TIP**: I recommend using **Visual Studio Code** with it’s integrated Terminal as you follow along below.
 
