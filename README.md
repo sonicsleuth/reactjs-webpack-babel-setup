@@ -13,7 +13,7 @@ Open a terminal and change your directory to the place where you will set up thi
 ```
 ## Setup the workspace that ReactJS requires.
 
-We shall to install and configure the following:
+We shall install and configure the following:
 
 -   ReactJS
 -   ReactJS-DOM
